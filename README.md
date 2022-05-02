@@ -1,9 +1,11 @@
 <h1 align="center">Hello world!👋</h1>
 <h3 align="center">I am a passionate self taught coder.</h3>
 
-- 🔭 I’m currently working on **some private projects :)**
+-  I’m currently working on **private projects :)** Will be happy to share stuff on here once I have something useful!
 
-- 🌱 I’m currently learning **PHP, Python, and C++**
+-  I’m currently learning **PHP, Python, and C++**
+
+-  I don't work as a developer, I mostly do this as a hobby.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
