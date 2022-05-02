@@ -5,7 +5,7 @@
 
 -  I’m currently learning **PHP, Python, and C++**
 
--  I don't work as a developer, I mostly do this as a hobby.
+-  I don't work as a developer, I do this as a hobby.
 
 <h3 align="left">Connect with me: TBA</h3>
 <p align="left">
