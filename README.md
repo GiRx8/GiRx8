@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 world!</h1>
+<h1 align="center">Hello world!👋</h1>
 <h3 align="center">I am a passionate self taught coder.</h3>
 
 - 🔭 I’m currently working on **some private projects :)**
