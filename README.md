@@ -3,7 +3,7 @@
 
 -  I’m currently working on **private projects :)** Will be happy to share stuff on here once I have something useful!
 
--  I’m currently learning **PHP, Python, and C#**
+-  I’m currently learning **PHP and Python**
 
 -  I don't work as a developer, I do this as a hobby.
 
