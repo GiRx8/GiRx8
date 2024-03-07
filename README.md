@@ -1,13 +1,11 @@
 <h1 align="center">Hello world!👋</h1>
-<h3 align="center">I am a passionate self taught coder.</h3>
+<h3 align="center">Passionate self-taught coder exploring the vast world of IT. 👨‍💻✨</h3>
 
--  I’m currently working on **private projects :)** Will be happy to share stuff on here once I have something useful!
+- Currently immersed in personal projects! Excited to share once they hit the milestone. 🚀
+- Learning the ropes of PHP and Python for fun and personal growth. 📚💻
+- Coding is a hobby, not my day job! ⌨️🎨
 
--  I’m currently learning **PHP and Python**
 
--  I don't work as a developer, I do this as a hobby.
-
-<h3 align="left">Connect with me: TBA</h3>
 <p align="left">
 </p>
 
